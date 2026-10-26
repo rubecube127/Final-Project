@@ -10,14 +10,30 @@ solving quadratic equations (factoring, square roots, the quadratic formula).
 Node 18 or newer. No API key is needed to run the tests; one is needed to coach
 a session.
 
-**1. Add your key.** Copy `.env.example` to `.env` and fill in
-`PORTKEY_API_KEY`. The server searches upward, so `backend/.env`, `.env` in the
-project root, or a `.env` up to two folders above the project all work — on boot
-it prints which file it loaded.
+**1. Add your key.** The app needs **`PORTKEY_API_KEY`** and nothing else.
+
+The server searches upward and uses the first `.env` it finds:
+
+| Order | Location |
+|-------|----------|
+| 1 | `<repo>/backend/.env` |
+| 2 | `<repo>/.env` — this repo's own folder |
+| 3 | `<one folder above the repo>/.env` |
+| 4 | `<two folders above the repo>/.env` |
+
+So if this repo is cloned into a folder alongside other submissions and a shared
+`.env` sits one level above it, **it is found with no setup at all** — skip to
+step 2. On boot the server prints which file it loaded, or lists every path it
+searched if it found none. A real environment variable beats every file.
+
+Otherwise:
 
 ```bash
-cp .env.example .env     # then edit it
+cp .env.example .env     # then fill in PORTKEY_API_KEY
 ```
+
+`.env.example` lists every variable the app reads. Only `PORTKEY_API_KEY` is
+required; the rest have working defaults.
 
 **2. Start the backend** (port 3001):
 
