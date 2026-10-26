@@ -1,0 +1,37 @@
+Tutor: Hi Priya, good to see you. Last week we were on factoring — want to pick that back up?
+Priya: Yeah. I got stuck on x^2 + 7x + 12 = 0 for homework.
+Tutor: Okay. Before we touch it, what do you already know about that equation?
+Priya: That it's a quadratic? And it equals zero.
+Tutor: Both true. Does the zero matter, or is it just there?
+Priya: I think it matters but I don't know why.
+Tutor: Hold onto that — let's come back to it. What do you want to try first?
+Priya: Divide both sides by x?
+Tutor: Tell me what makes you want to do that.
+Priya: Because x is in two of the terms, so it feels like you can cancel it.
+Tutor: That's a real pattern you're noticing, and it works in some places. Where does that rule come from — what are you allowed to divide both sides by?
+Priya: Anything... as long as it's not zero?
+Tutor: So what's the problem here?
+Priya: Oh. x might be zero. So I'd lose an answer.
+Tutor: You found that yourself. That's exactly the trap. So what's another route in?
+Priya: Factor it. Two numbers that multiply to 12 and add to 7. So 3 and 4.
+Tutor: Walk me through why those two.
+Priya: Because 3 times 4 is 12 and 3 plus 4 is 7. So it's (x + 3)(x + 4) = 0.
+Tutor: Now come back to the zero. Two things multiply to give zero. What does that force?
+Priya: One of them has to be zero.
+Tutor: So?
+Priya: x = -3 or x = -4.
+Tutor: Let me draw this. Here's a number line — put your two answers on it.
+Priya: Okay, -4 then -3.
+Tutor: And if I sketch the parabola through those two points, what's happening between them?
+Priya: It dips below the line?
+Tutor: Right. So the equation's two answers are the two places the curve crosses. Same fact, different picture.
+Priya: That makes more sense than just the letters.
+Tutor: Try x^2 - 36 = 0 the same way.
+Priya: There's no middle term.
+Tutor: Does that break anything?
+Priya: ...Two numbers that multiply to -36 and add to 0. So 6 and -6. (x + 6)(x - 6) = 0. So x = -6 or x = 6.
+Tutor: Both of them. A lot of people stop at 6 — you checked whether there was another crossing, and there was. That habit of asking "is that all of them?" is what's going to carry you through the quadratic formula next week.
+Priya: Cool.
+Tutor: Same question one more time before we stop: what made the dividing-by-x idea fail?
+Priya: Because x could be zero and you'd throw away an answer.
+Tutor: That's yours now.

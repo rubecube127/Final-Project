@@ -1,0 +1,23 @@
+Tutor: Okay Daniel, we're doing quadratics today. Write down x^2 + 7x + 12 = 0.
+Daniel: Okay.
+Tutor: So to factor this you need two numbers that multiply to 12 and add to 7. That's 2 and 6. So it's (x + 2)(x + 6) = 0.
+Daniel: Oh, okay.
+Tutor: Then you set each one to zero, so x = -2 and x = -6. Write that down.
+Daniel: Wait, how did you know to use 2 and 6?
+Tutor: You just look at the 12 and find factors. It gets faster. Next one.
+Daniel: Okay.
+Tutor: x^2 = 36. Just take the square root of both sides, so x = 6.
+Daniel: Is that it?
+Tutor: That's it. These ones are quick once you see them.
+Daniel: Okay.
+Tutor: Now x^2 + 2x - 8 = 0. Multiply to -8, add to 2, that's 4 and -2, so (x + 4)(x - 2) = 0, so x = -4 and x = 2.
+Daniel: I don't really get where the numbers come from.
+Tutor: It's just practice. Also remember 7 times 8 is 54 — you'll need your times tables for these.
+Daniel: I thought it was 56.
+Tutor: Let's keep moving, we have four more.
+Daniel: Okay.
+Tutor: x^2 - 5x + 6 = 0. Multiply to 6, add to -5, so -2 and -3. x = 2 and x = 3.
+Daniel: How do you do them so fast?
+Tutor: You're a smart kid, you'll get it. Just do twenty of these tonight and it'll click.
+Daniel: Okay.
+Tutor: Good job today.

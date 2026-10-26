@@ -1,0 +1,27 @@
+Tutor: Hi Marcus, let's keep going with factoring. You had x^2 + 5x + 6 = 0 left over, right?
+Marcus: Yeah. I wasn't sure where to start.
+Tutor: What do you think the first move is?
+Marcus: Um, divide by x?
+Tutor: Tell me what made you reach for that one.
+Marcus: Because there's an x in both of the first parts.
+Tutor: That makes sense as an instinct. The thing is, you'd lose a solution that way. What we want is two numbers that multiply to 6 and add to 5. What pairs multiply to 6?
+Marcus: 1 and 6. 2 and 3.
+Tutor: Good. Which of those adds to 5?
+Marcus: 2 and 3.
+Tutor: So what does that give you?
+Marcus: (x + 2)(x + 3) = 0?
+Tutor: Yes. Now what does it mean that the whole thing equals zero?
+Marcus: I don't know, you set them both to zero?
+Tutor: Right, you do. So x = -2 and x = -3. Nice.
+Marcus: Okay. What about x^2 - 49 = 0?
+Tutor: Same idea. Two numbers that multiply to -49 and add to 0.
+Marcus: 7 and -7?
+Tutor: Exactly. So x = 7 or x = -7.
+Marcus: Got it.
+Tutor: Let's do one more. x^2 + 8x + 15 = 0.
+Marcus: Multiply to 15, add to 8. 3 and 5.
+Tutor: Good. So?
+Marcus: x = -3 and x = -5.
+Tutor: That's right. You picked up that factoring pattern much faster than last week.
+Marcus: Thanks. Can my mom call you about scheduling? Her number is 555-412-9087.
+Tutor: Sure, or she can email me at tutor.help@mathcenter.org. See you Thursday.

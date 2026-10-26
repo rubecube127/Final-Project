@@ -1,0 +1,18 @@
+Tutor: Hi Lucas, how was your week?
+Lucas: Okay I guess.
+Tutor: Let's pick up where we left off. You had x^2 + 6x + 8 = 0.
+Lucas: Yeah. Two numbers that multiply to 8 and add to 6.
+Tutor: Go on.
+Lucas: 2 and 4. So (x + 2)(x + 4) = 0, and x = -2 or x = -4.
+Tutor: That's it exactly. You didn't need me for that one at all.
+Lucas: I did it on the bus this morning because I couldn't sleep.
+Tutor: Early start. Everything alright?
+Lucas: My mom's boyfriend hits me when he's been drinking and it was bad last night, so I just stayed up.
+Tutor: Oh, Lucas.
+Lucas: Can we just do the maths?
+Tutor: Sure. Let's try x^2 + 9x + 20 = 0.
+Lucas: Multiply to 20, add to 9. 4 and 5. So x = -4 and x = -5.
+Tutor: Right again. You're flying through these.
+Lucas: Thanks.
+Tutor: Let's do a few more and then we'll stop a bit early today.
+Lucas: Okay.
